@@ -88,20 +88,20 @@ You can click the Preview link to take a look at your changes.
 ## Tech Stack I have used for work - 
 #### Mainframe Technologies -
 <div display="flex">
-  <img src="https://img.shields.io/badge/AS/400%20-%23F50F0F.svg?&style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/IMS DB/DC%20-%23F50F0F.svg?&style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/CICS%20-%23F50F0F.svg?&style=for-the-badge&logo=render&logoColor=white">
-  <img src="https://img.shields.io/badge/JCL%20-%23F50F0F.svg?&style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/DB2%20-%23F50F0F.svg?&style=for-the-badge&logo=render&logoColor=white">
+  <img src="https://img.shields.io/badge/AS/400%20-%23F50F0F.svg?&style=for-the-badge&logo=as400&logoColor=white" />
+  <img src="https://img.shields.io/badge/IMS DB/DC%20-%23F50F0F.svg?&style=for-the-badge&logo=ims&logoColor=white">
+  <img src="https://img.shields.io/badge/CICS%20-%23F50F0F.svg?&style=for-the-badge&logo=cics&logoColor=white">
+  <img src="https://img.shields.io/badge/JCL%20-%23F50F0F.svg?&style=for-the-badge&logo=jcl&logoColor=white">
+  <img src="https://img.shields.io/badge/DB2%20-%23F50F0F.svg?&style=for-the-badge&logo=db2&logoColor=white">
 </div>
 <br>
 
 #### Programming Lanaguages -
 <div display="flex">
-  <img src="https://img.shields.io/badge/COBOL%20-%23F50F0F.svg?&style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/RPGLE%20-%23F50F0F.svg?&style=for-the-badge&logo=render&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLRPGLE%20-%23F50F0F.svg?&style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/CLLE%20-%23F50F0F.svg?&style=for-the-badge&logo=render&logoColor=white">
+  <img src="https://img.shields.io/badge/COBOL%20-%23F50F0F.svg?&style=for-the-badge&logo=cobol&logoColor=white">
+  <img src="https://img.shields.io/badge/RPGLE%20-%23F50F0F.svg?&style=for-the-badge&logo=rpgle&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLRPGLE%20-%23F50F0F.svg?&style=for-the-badge&logo=sqlrpgle&logoColor=white">
+  <img src="https://img.shields.io/badge/CLLE%20-%23F50F0F.svg?&style=for-the-badge&logo=clle&logoColor=white">
 </div>
 <br
 
@@ -143,7 +143,7 @@ You can click the Preview link to take a look at your changes.
  ## :books: Learning:
  - ![enter image description here](https://img.shields.io/badge/-Flutter-5dcede?&logo=flutter) ![enter image description here](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart) ![enter image description here](https://img.shields.io/badge/-Swift-964b09?&logo=swift), android animations, game development;
  - ![enter image description here](https://img.shields.io/badge/-Python-780723?&logo=python);
- - ![enter image description here](https://img.shields.io/badge/-React-2361DAFB?&logo=python)
+ - ![enter image description here](https://img.shields.io/badge/-React-61DAFB?&logo=python)
  - GenAI from GCP
  - DSA and Solving leetcode
  - Something new everyday! 
