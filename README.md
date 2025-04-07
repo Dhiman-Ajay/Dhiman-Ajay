@@ -5,11 +5,14 @@
 - 👋 Hi, I’m Ajay Dhiman
 - 👀 I’m interested in Computers, AI, and Game Development
 - 🔭 I’m currently working on ... Not working
-- 🌱 I’m currently learning Electronics
 - 👯 I’m looking to collaborate on ... Any of project
 - 💞️ I’m looking to collaborate on AI stuff(clearly don't know much about it)
-- - ⚡ Fun fact: ... Play Valorant when I am bored but lately focusing on making my own game.
-    
+- ⚡ Fun fact: ... Play Valorant when I am bored but lately focusing on making my own game.
+
+![githubbadge](https://img.shields.io/github/followers/Dhiman-Ajay?style=social) <a href="https://www.linkedin.com/in/ajay-dhiman-6a5474335/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ajay%20Dhiman%20-blue?style=flat&logo=linkedin"></a> 
+Welcome to my Github! I make some fun codes to learn new things and help other people learn it too (especially from my mistakes :sweat_smile:).
+
+
 <details>
   <summary>:zap: Github Stats</summary>
   <p align="center"> 
@@ -18,6 +21,7 @@
   
   </p>
 </details>
+
 
 <details>
   <summary>:zap: Languages Used</summary>
@@ -34,10 +38,9 @@
 Dhiman-Ajay/Dhiman-Ajay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![githubbadge](https://img.shields.io/github/followers/Dhiman-Ajay?style=social) <a href="[https://www.linkedin.com/in/Ajay-Dhiman/](https://www.linkedin.com/in/ajay-dhiman-6a5474335/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ajay%20LDhiman%20-blue?style=flat&logo=linkedin"></a> 
-Welcome to my Github! I make some fun codes to learn new things and help other people learn it too (especially from my mistakes :sweat_smile:).
 
-### Languages and Tools:
+
+## Languages and Tools:
 <div display="flex">
   <p>Programming Languages - </p>
   <img src="https://img.shields.io/badge/Python%20-%233776AB.svg?&style=for-the-badge&logo=Python&logoColor=white">
@@ -97,11 +100,14 @@ Welcome to my Github! I make some fun codes to learn new things and help other p
 <br>
 
 #### Programming Lanaguages -
+<div display="flex">
   <img src="https://img.shields.io/badge/COBOL%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/RPGLE%20-%23000000.svg?&style=for-the-badge&logo=render&logoColor=white">
   <img src="https://img.shields.io/badge/SQLRPGLE%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/CLLE%20-%23000000.svg?&style=for-the-badge&logo=render&logoColor=white">
-, , . 
+</div>
+<br
+
 <!---<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-vlsmb&psig=AOvVaw0XAwZx5c2LcbEy5kciEiK5&ust=1744109810294000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDy1cjhxYwDFQAAAAAdAAAAABAJ"/> --->
 ## Editors
 <div display="flex">
