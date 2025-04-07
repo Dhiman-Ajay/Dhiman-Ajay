@@ -47,9 +47,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Cpp%20-%2300599C.svg?&style=for-the-badge&logo=C++&logoColor=white">
   <img src="https://img.shields.io/badge/tensorflow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white">
 <!---  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> --->
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-
 
   <p>Cloud Platform - </p>
   <img src="https://img.shields.io/badge/Azure%20-%23F50F0F.svg?&style=for-the-badge&logo=Microsoft&logoColor=white" />
@@ -91,20 +88,20 @@ You can click the Preview link to take a look at your changes.
 ## Tech Stack I have used for work - 
 #### Mainframe Technologies -
 <div display="flex">
-  <img src="https://img.shields.io/badge/AS/400%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/IMS DB/DC%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/CICS%20-%23000000.svg?&style=for-the-badge&logo=render&logoColor=white">
-  <img src="https://img.shields.io/badge/JCL%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/DB2%20-%23000000.svg?&style=for-the-badge&logo=render&logoColor=white">
+  <img src="https://img.shields.io/badge/AS/400%20-%23F50F0F.svg?&style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/IMS DB/DC%20-%23F50F0F.svg?&style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/CICS%20-%23F50F0F.svg?&style=for-the-badge&logo=render&logoColor=white">
+  <img src="https://img.shields.io/badge/JCL%20-%23F50F0F.svg?&style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/DB2%20-%23F50F0F.svg?&style=for-the-badge&logo=render&logoColor=white">
 </div>
 <br>
 
 #### Programming Lanaguages -
 <div display="flex">
-  <img src="https://img.shields.io/badge/COBOL%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/RPGLE%20-%23000000.svg?&style=for-the-badge&logo=render&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLRPGLE%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/CLLE%20-%23000000.svg?&style=for-the-badge&logo=render&logoColor=white">
+  <img src="https://img.shields.io/badge/COBOL%20-%23F50F0F.svg?&style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/RPGLE%20-%23F50F0F.svg?&style=for-the-badge&logo=render&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLRPGLE%20-%23F50F0F.svg?&style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/CLLE%20-%23F50F0F.svg?&style=for-the-badge&logo=render&logoColor=white">
 </div>
 <br
 
