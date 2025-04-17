@@ -105,7 +105,6 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br
 
-<!---<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-vlsmb&psig=AOvVaw0XAwZx5c2LcbEy5kciEiK5&ust=1744109810294000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDy1cjhxYwDFQAAAAAdAAAAABAJ"/> --->
 ## Editors
 <div display="flex">
   <img src="https://img.shields.io/badge/vscode%20-%23F50F0F.svg?&style=for-the-badge&logo=vscode&logoColor=white" />
